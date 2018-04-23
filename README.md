@@ -30,6 +30,12 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 - [Neftas/supplementary-buttons-anki](https://github.com/Neftas/supplementary-buttons-anki) - Provides supplementary formatting buttons and Markdown for AnkiSRS, including Markdown, code blocks, lists, tables, syntax highlight and more.
 
+* [sillsdev/flashfork](https://github.com/sillsdev/flashfork) - Add-on for copying decks of flashcards, with or without also copying their note types.
+
+* [sillsdev/flashgrab](https://github.com/sillsdev/flashgrab) - Add-on for pulling flashcard data (one-way sync) from XML.
+
+* [sillsdev/flashgrid](https://github.com/sillsdev/flashgrid) - Add-on for drilling flashcards by selecting the correct card from a grid layout of several cards.
+
 ## Tools
 
 ### Chrome extensions
