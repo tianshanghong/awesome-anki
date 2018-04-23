@@ -36,6 +36,8 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 * [sillsdev/flashgrid](https://github.com/sillsdev/flashgrid) - Add-on for drilling flashcards by selecting the correct card from a grid layout of several cards.
 
+* [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Add-on to expose a remote API for creating flash cards.
+
 ## Tools
 
 ### Chrome extensions
@@ -50,9 +52,17 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 - [AurelienLourot/lsankidb](https://github.com/AurelienLourot/lsankidb) - `ls` for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, `grep` them or `diff` them.
 
+- [dsnopek/anki-sync-server](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
+
 ### Programming libraries
 
 - [patarapolw/AnkiTools](https://github.com/patarapolw/AnkiTools) - Python library for reading `*.apkg` and `*.anki2` files.
+
+- [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - Python library for generating Anki decks.
+
+- [Archenoth/clj-anki](https://github.com/Archenoth/clj-anki) - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
+
+- [flimzy/anki](https://github.com/flimzy/anki) - Go library to read Anki `*.apkg` files.
 
 ## Themes
 
@@ -63,3 +73,5 @@ A curated list of awesome Anki add-ons, decks and resources.
 - [LaoHuang.net](http://www.laohuang.net/) - A personal blog introducing author's self-developed anki tools. (*Simplified Chinese)
 
 - [YouDaoDict To Anki](http://yd2anki.nocode.site/) - An online tool to help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import. (See details in [ecator/anki-youdao2anki](https://github.com/ecator/anki-youdao2anki) project.)
+
+- [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/tell/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
