@@ -56,6 +56,8 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 - [dsnopek/anki-sync-server ![GitHub stars](https://img.shields.io/github/stars/dsnopek/anki-sync-server.svg)](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
 
+- [breizoreol/memanki-cli ![GitHub stars](https://img.shields.io/github/stars/breizoreol/memanki-cli.svg)](https://github.com/breizoreol/memanki-cli) - Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1
+
 ### Programming libraries
 
 - [patarapolw/AnkiTools ![GitHub stars](https://img.shields.io/github/stars/patarapolw/AnkiTools.svg)](https://github.com/patarapolw/AnkiTools) - Python library for reading `*.apkg` and `*.anki2` files.
