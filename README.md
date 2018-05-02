@@ -58,6 +58,8 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 - [breizoreol/memanki-cli ![GitHub stars](https://img.shields.io/github/stars/breizoreol/memanki-cli.svg)](https://github.com/breizoreol/memanki-cli) - Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1
 
+- [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
+
 ### Programming libraries
 
 - [patarapolw/AnkiTools ![GitHub stars](https://img.shields.io/github/stars/patarapolw/AnkiTools.svg)](https://github.com/patarapolw/AnkiTools) - Python library for reading `*.apkg` and `*.anki2` files.
