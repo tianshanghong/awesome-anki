@@ -40,7 +40,7 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 * [glutanimate/sequence-inserter ![GitHub stars](https://img.shields.io/github/stars/glutanimate/sequence-inserter.svg)](https://github.com/glutanimate/sequence-inserter) - Allows you to define lists and sequences which can later be referenced in your cards through a special tag syntax.
 
-* [glutanimate/anki-addons-misc ![GitHub stars](https://img.shields.io/github/stars/glutanimate/anki-addons-misc.svg)](https://github.com/glutanimate/anki-addons-misc) - This repository contains a collection of the small but useful Anki add-ons. For more detailed table of contents, please see [the descriptions of anki-addons-misc](https://github.com/glutanimate/anki-addons-misc/blob/master/docs/descriptions.md).
+* [glutanimate/anki-addons-misc ![GitHub stars](https://img.shields.io/github/stars/glutanimate/anki-addons-misc.svg)](https://github.com/glutanimate/anki-addons-misc) - This repository contains a collection of the small but useful Anki add-ons. For the more detailed table of contents, please see [the descriptions of anki-addons-misc](https://github.com/glutanimate/anki-addons-misc/blob/master/docs/descriptions.md).
 
 * [glutanimate/note-organizer ![GitHub stars](https://img.shields.io/github/stars/glutanimate/note-organizer.svg)](https://github.com/glutanimate/note-organizer) - Extends Anki's card browser with an easy-to-use dialog that provides the user with a multitude of different ways to organize and restructure their note collection. Actions supported by the add-on include changing the note order, inserting new notes at specific positions, and the ability to duplicate notes alongside their scheduling.
 
