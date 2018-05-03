@@ -2,7 +2,23 @@
 
 # Awesome Anki [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Anki add-ons, decks and resources.
+A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and resources.
+
+## Table of Contents
+
+<!-- MarkdownTOC -->
+
+* [Clients](#clients)
+* [Decks](#decks)
+* [Add-ons](#add-ons)
+* [Tools](#tools)
+  * [Chrome extensions](#chrome-extensions)
+  * [Command-line tools](#command-line-tools)
+  * [Programming libraries](#programming-libraries)
+* [Themes](#themes)
+* [Websites](#websites)
+
+<!-- /MarkdownTOC -->
 
 ## Clients
 
@@ -10,7 +26,7 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 * [ankidroid/Anki-Android ![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
 
-* [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Anki for iOS devices (*Not Open Source*)
+* [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Anki for iOS devices (_Not Open Source_)
 
 ## Decks
 
@@ -94,7 +110,7 @@ A curated list of awesome Anki add-ons, decks and resources.
 
 ## Websites
 
-* [LaoHuang.net](http://www.laohuang.net/) - A personal blog introducing author's self-developed anki tools. (\*Simplified Chinese)
+* [LaoHuang.net](http://www.laohuang.net/) - A personal blog introducing author's self-developed anki tools. (_Simplified Chinese_)
 
 * [YouDaoDict To Anki](http://yd2anki.nocode.site/) - An online tool to help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import. (See details in [ecator/anki-youdao2anki](https://github.com/ecator/anki-youdao2anki) project.)
 
