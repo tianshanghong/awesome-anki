@@ -114,4 +114,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [YouDaoDict To Anki](http://yd2anki.nocode.site/) - An online tool to help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import. (See details in [ecator/anki-youdao2anki](https://github.com/ecator/anki-youdao2anki) project.)
 
-* [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/tell/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
+* [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
