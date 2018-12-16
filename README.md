@@ -34,6 +34,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
+* [vojtechruz/spring-core-cert-notes-4.2 ![GitHub stars](https://img.shields.io/github/stars/vojtechruz/spring-core-cert-notes-4.2.svg)]
+(https://github.com/vojtechruz/spring-core-cert-notes-4.2) - Decks with notes for Spring Core Certification 4.2
+
 ## Add-ons
 
 * [AwesomeTTS/awesometts-anki-addon ![GitHub stars](https://img.shields.io/github/stars/AwesomeTTS/awesometts-anki-addon.svg)](https://github.com/AwesomeTTS/awesometts-anki-addon) - AwesomeTTS makes it easy for language-learners and other students to add speech to their personal Anki card decks.
