@@ -68,7 +68,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [eshapard/AnkiHabitica ![GitHub stars](https://img.shields.io/github/stars/eshapard/AnkiHabitica.svg)](https://github.com/eshapard/AnkiHabitica) - Anki 2 add-on for use with Habitica. Places a progress bar on the bottom of the review screen and scores a Habitica habit when the progress bar reaches the end. Also shows your health, exp, and mana stats as percentages to the right of the progress bar.
 
-* [Neftas/supplementary-buttons-anki ![GitHub stars](https://img.shields.io/github/stars/Neftas/supplementary-buttons-anki.svg)](https://github.com/Neftas/supplementary-buttons-anki) - Provides supplementary formatting buttons and Markdown for AnkiSRS, including Markdown, code blocks, lists, tables, syntax highlight and more.
+* [Stefan van den Akker/supplementary-buttons-anki](https://gitlab.com/neftas/supplementary-buttons-anki) - Provides supplementary formatting buttons and Markdown for AnkiSRS, including Markdown, code blocks, lists, tables, syntax highlight and more.
 
 * [sillsdev/flashfork ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashfork.svg)](https://github.com/sillsdev/flashfork) - Add-on for copying decks of flashcards, with or without also copying their note types.
 
