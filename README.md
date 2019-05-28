@@ -84,6 +84,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) - Create Anki cards with Chrome extension automatically.
 
+* [corollari/ankiTab ![GitHub stars](https://img.shields.io/github/stars/corollari/ankiTab.svg)](https://github.com/corollari/ankiTab) - Replaces the new tab page with Anki flashcards
+
 ### Command-line tools
 
 * [jamhed/anki ![GitHub stars](https://img.shields.io/github/stars/jamhed/anki.svg)](https://github.com/jamhed/anki) - These tools allow to use Google Translate service in command-line to translate words, and to retrieve Google Translate phrase books as a JSON list.
