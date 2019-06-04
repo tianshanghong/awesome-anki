@@ -80,11 +80,11 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ## Tools
 
-### Chrome extensions
+### Browser extensions
 
 * [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) - Create Anki cards with Chrome extension automatically.
 
-* [corollari/ankiTab ![GitHub stars](https://img.shields.io/github/stars/corollari/ankiTab.svg)](https://github.com/corollari/ankiTab) - Replaces the new tab page with Anki flashcards
+* [corollari/ankiTab ![GitHub stars](https://img.shields.io/github/stars/corollari/ankiTab.svg)](https://github.com/corollari/ankiTab) - Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.
 
 ### Command-line tools
 
