@@ -15,6 +15,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
   * [Chrome extensions](#chrome-extensions)
   * [Command-line tools](#command-line-tools)
   * [Programming libraries](#programming-libraries)
+  * [Telegram bots](#telegram-bots)
 * [Themes](#themes)
 * [Websites](#websites)
 
@@ -99,6 +100,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [breizoreol/memanki-cli ![GitHub stars](https://img.shields.io/github/stars/breizoreol/memanki-cli.svg)](https://github.com/breizoreol/memanki-cli) - Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1
 
 * [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
+
+### Telegram bots
+
+* [damaru2/ankigenbot ![GitHub stars](https://img.shields.io/github/stars/damaru2/ankigenbot.svg)](https://github.com/damaru2/ankigenbot) - [@ankigen_bot](https://t.me/ankigen_bot), Telegram bot to automatically generate and upload anki cards to [ankisrs.net](ankisrs.net).
 
 ### Programming libraries
 
