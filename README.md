@@ -14,8 +14,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Tools](#tools)
   * [Chrome extensions](#chrome-extensions)
   * [Command-line tools](#command-line-tools)
-  * [Programming libraries](#programming-libraries)
   * [Telegram bots](#telegram-bots)
+  * [Programming libraries](#programming-libraries)
 * [Themes](#themes)
 * [Websites](#websites)
 
