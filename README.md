@@ -81,7 +81,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ## Tools
 
-### Browser extensions
+### Chrome extensions
 
 * [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) - Create Anki cards with Chrome extension automatically.
 
