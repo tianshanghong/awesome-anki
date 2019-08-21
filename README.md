@@ -12,7 +12,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Decks](#decks)
 * [Add-ons](#add-ons)
 * [Tools](#tools)
-  * [Chrome extensions](#chrome-extensions)
+  * [Browser extensions](#browser-extensions)
   * [Command-line tools](#command-line-tools)
   * [Telegram bots](#telegram-bots)
   * [Programming libraries](#programming-libraries)
