@@ -81,6 +81,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [FooSoft/anki-connect ![GitHub stars](https://img.shields.io/github/stars/FooSoft/anki-connect.svg)](https://github.com/FooSoft/anki-connect) - Add-on to expose a remote API for creating flash cards.
 
+* [Stvad/CrowdAnki ![GitHub stars](https://img.shields.io/github/stars/Stvad/CrowdAnki.svg)](https://github.com/Stvad/CrowdAnki) - Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.
+
 ## Tools
 
 ### Browser extensions
