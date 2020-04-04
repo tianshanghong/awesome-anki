@@ -23,7 +23,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ## Clients
 
-* [dae/anki ![GitHub stars](https://img.shields.io/github/stars/dae/anki.svg)](https://github.com/dae/anki) - Anki for desktop computers
+* [ankitects/anki ![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) - Anki for desktop computers
 
 * [ankidroid/Anki-Android ![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
 
