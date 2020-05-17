@@ -101,7 +101,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [AurelienLourot/lsankidb ![GitHub stars](https://img.shields.io/github/stars/AurelienLourot/lsankidb.svg)](https://github.com/AurelienLourot/lsankidb) - `ls` for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, `grep` them or `diff` them.
 
-* [dsnopek/anki-sync-server ![GitHub stars](https://img.shields.io/github/stars/dsnopek/anki-sync-server.svg)](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
+* [ankicommunity/anki-sync-server ![GitHub stars](https://img.shields.io/github/stars/ankicommunity/anki-sync-server.svg)](https://github.com/ankicommunity/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
 
 * [breizoreol/memanki-cli ![GitHub stars](https://img.shields.io/github/stars/breizoreol/memanki-cli.svg)](https://github.com/breizoreol/memanki-cli) - Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1
 
