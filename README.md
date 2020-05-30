@@ -123,7 +123,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ## Themes
 
-* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) - Anki theme for programming snippets
+* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) - Anki theme for programming snippets.
+
+* [asdfgeoff/anki-templates/mental-models ![GitHub stars](https://img.shields.io/github/stars/asdfgeoff/anki-templates.svg)](https://github.com/asdfgeoff/anki-templates/blob/master/mental-models) – A theme for learning mental models & concepts.
 
 ## Websites
 
