@@ -40,6 +40,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [taivop/anki-decks ![GitHub stars](https://img.shields.io/github/stars/taivop/anki-decks.svg)](https://github.com/taivop/anki-decks) - [Taivo Pungas](https://github.com/taivop)'s personal decks on his studies on AI and related topics.
 
 * [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
+ 
+* [English Irregular verbs](https://ankiweb.net/shared/info/110667962) - A deck containing more than 170 english irregular verbs, the resource comes with audio, images and phrases as example.
 
 * [Mark Nagelberg](http://www.marknagelberg.com/anki/anki_webpage_loaded.html) - Data Science decks with personal notes from books, online courses and blog posts.
 
@@ -123,7 +125,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ## Themes
 
-* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) - Anki theme for programming snippets
+* [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) - Anki theme for programming snippets.
+
+* [asdfgeoff/anki-templates/mental-models ![GitHub stars](https://img.shields.io/github/stars/asdfgeoff/anki-templates.svg)](https://github.com/asdfgeoff/anki-templates/blob/master/mental-models) – A theme for learning mental models & concepts.
 
 ## Websites
 
@@ -133,4 +137,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
 
- * [Notion2Anki](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki Cards easily!
+* [Notion2Anki](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki Cards easily!
+
+* [Workflowy2Anki](https://workflowy2anki.alemayhu.com/) - A website to convert WorkFlowy outlines to Anki cards easily.
+
