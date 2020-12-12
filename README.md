@@ -109,6 +109,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
 
+### iOS helper apps
+
+* [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. The app is available for free on the [App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh). A detailed post about the app can be found [here](https://www.matthewshu.com/productivity/2020/12/12/gap-year-updates-2-introducing-flashcard-adder-and-thoughts-on-notes.html#flashcard-adder).
+
 ### Telegram bots
 
 * [damaru2/ankigenbot ![GitHub stars](https://img.shields.io/github/stars/damaru2/ankigenbot.svg)](https://github.com/damaru2/ankigenbot) - [@ankigen_bot](https://t.me/ankigen_bot), Telegram bot to automatically generate and upload anki cards to [ankisrs.net](ankisrs.net).
