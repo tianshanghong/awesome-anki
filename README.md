@@ -14,7 +14,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Tools](#tools)
   * [Browser extensions](#browser-extensions)
   * [Command-line tools](#command-line-tools)
-  * [iOS helper apps](ios-helper-apps)
+  * [iOS helper apps](#ios-helper-apps)
   * [Telegram bots](#telegram-bots)
   * [Programming libraries](#programming-libraries)
 * [Themes](#themes)
