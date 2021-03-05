@@ -14,6 +14,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Tools](#tools)
   * [Browser extensions](#browser-extensions)
   * [Command-line tools](#command-line-tools)
+  * [iOS helper apps](ios-helper-apps)
   * [Telegram bots](#telegram-bots)
   * [Programming libraries](#programming-libraries)
 * [Themes](#themes)
@@ -111,7 +112,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 ### iOS helper apps
 
-* [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. The app is available for free on the [App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh). A detailed post about the app can be found [here](https://www.matthewshu.com/productivity/2020/12/12/gap-year-updates-2-introducing-flashcard-adder-and-thoughts-on-notes.html#flashcard-adder).
+* [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh).
 
 ### Telegram bots
 
