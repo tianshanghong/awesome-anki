@@ -143,6 +143,3 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
 
 * [Notion2Anki](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki Cards easily!
-
-* [Workflowy2Anki](https://workflowy2anki.alemayhu.com/) - A website to convert WorkFlowy outlines to Anki cards easily.
-
