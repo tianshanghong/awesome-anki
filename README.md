@@ -112,6 +112,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
 
+* [psamim/kindle2anki ![GitHub stars](https://img.shields.io/github/stars/psamim/kindle2anki)](https://github.com/psamim/kindle2anki) - A Python Script to add vocabularies from Kindle to Anki.
+
 ### iOS helper apps
 
 * [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh).
