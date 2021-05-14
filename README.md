@@ -154,3 +154,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
 
 * [Notion to Anki ![GitHub stars](https://img.shields.io/github/stars/alemayhu/notion-to-anki.svg)](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki flashcards easily!
+
+* [Power up Anki with Emacs, Org mode, anki-editor and more](https://yiufung.net/post/anki-org/) - A detailed blog introducing how to quickly add/edit Anki cards with the powerful Emacs editor.
