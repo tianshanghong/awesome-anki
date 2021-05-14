@@ -104,6 +104,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [ecator/anki-youdao2anki ![GitHub stars](https://img.shields.io/github/stars/ecator/anki-youdao2anki.svg)](https://github.com/ecator/anki-youdao2anki) - Help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import.
 
+* [Mindful/cardbuilder ![GitHub stars](https://img.shields.io/github/stars/mindful/cardbuilder.svg)](https://github.com/Mindful/cardbuilder) - Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library. 
+
 * [AurelienLourot/lsankidb ![GitHub stars](https://img.shields.io/github/stars/AurelienLourot/lsankidb.svg)](https://github.com/AurelienLourot/lsankidb) - `ls` for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, `grep` them or `diff` them.
 
 * [ankicommunity/anki-sync-server ![GitHub stars](https://img.shields.io/github/stars/ankicommunity/anki-sync-server.svg)](https://github.com/ankicommunity/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
