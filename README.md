@@ -132,6 +132,9 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [flimzy/anki ![GitHub stars](https://img.shields.io/github/stars/flimzy/anki.svg)](https://github.com/flimzy/anki) - Go library to read Anki `*.apkg` files.
 
+* [yannickfunk/genanki-rs ![GitHub stars](https://img.shields.io/github/stars/yannickfunk/genanki-rs.svg)](https://github.com/yannickfunk/genanki-rs) - Rust library for generating Anki decks.
+
+
 ## Themes
 
 * [badlydrawnrob/anki ![GitHub stars](https://img.shields.io/github/stars/badlydrawnrob/anki.svg)](https://github.com/badlydrawnrob/anki) - Anki theme for programming snippets.
