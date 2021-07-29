@@ -43,7 +43,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [taivop/anki-decks ![GitHub stars](https://img.shields.io/github/stars/taivop/anki-decks.svg)](https://github.com/taivop/anki-decks) - [Taivo Pungas](https://github.com/taivop)'s personal decks on his studies on AI and related topics.
 
 * [axelboc/anki-ultimate-geography ![GitHub stars](https://img.shields.io/github/stars/axelboc/anki-ultimate-geography.svg)](https://github.com/axelboc/anki-ultimate-geography) - Geography flashcard deck having different sovereign states, overseas territories and dependent areas, oceans, seas, and continents.
- 
+
 * [English Irregular verbs](https://ankiweb.net/shared/info/110667962) - A deck containing more than 170 english irregular verbs, the resource comes with audio, images and phrases as example.
 
 * [Mark Nagelberg](http://www.marknagelberg.com/anki/anki_webpage_loaded.html) - Data Science decks with personal notes from books, online courses and blog posts.
@@ -104,7 +104,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [ecator/anki-youdao2anki ![GitHub stars](https://img.shields.io/github/stars/ecator/anki-youdao2anki.svg)](https://github.com/ecator/anki-youdao2anki) - Help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import.
 
-* [Mindful/cardbuilder ![GitHub stars](https://img.shields.io/github/stars/mindful/cardbuilder.svg)](https://github.com/Mindful/cardbuilder) - Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library. 
+* [Mindful/cardbuilder ![GitHub stars](https://img.shields.io/github/stars/mindful/cardbuilder.svg)](https://github.com/Mindful/cardbuilder) - Generates language learning flashcards from a list of input words by automating dictionary lookup and flashcard construction; also usable as a Python library.
 
 * [AurelienLourot/lsankidb ![GitHub stars](https://img.shields.io/github/stars/AurelienLourot/lsankidb.svg)](https://github.com/AurelienLourot/lsankidb) - `ls` for your local Anki database. Dump/Print all your Anki terms in order to save them, search them, `grep` them or `diff` them.
 
@@ -151,7 +151,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [YouDaoDict To Anki](http://yd2anki.nocode.site/) - An online tool to help convert XML files exported by [YouDao Dictionary](http://youdao.com/) to plain text files for Anki import. (See details in [ecator/anki-youdao2anki](https://github.com/ecator/anki-youdao2anki) project.)
 
-* [Anki Scripting 101: Automate your flashcards](https://www.juliensobczak.com/write/2016/12/26/anki-scripting.html) - A very detailed article about Anki's internals.
+* [Anki Scripting for Non-Programmers](https://www.juliensobczak.com/write/2020/12/26/anki-scripting-for-non-programmers.html) - A guide to use the Anki internal API to automate the creation of your flashcards.
 
 * [Notion to Anki ![GitHub stars](https://img.shields.io/github/stars/alemayhu/notion-to-anki.svg)](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki flashcards easily!
 
