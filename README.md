@@ -46,6 +46,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [English Irregular verbs](https://ankiweb.net/shared/info/110667962) - A deck containing more than 170 english irregular verbs, the resource comes with audio, images and phrases as example.
 
+* [Effective learning: Twenty rules of formulating knowledge](https://ankiweb.net/shared/info/1039979733) - The speed of learning will depend on the way you formulate the material. The same material can be learned many times faster if well formulated! The rules are listed in the order of importance.
+
 * [Mark Nagelberg](http://www.marknagelberg.com/anki/anki_webpage_loaded.html) - Data Science decks with personal notes from books, online courses and blog posts.
 
 ## Add-ons
