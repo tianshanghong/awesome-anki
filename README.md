@@ -156,3 +156,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Notion to Anki ![GitHub stars](https://img.shields.io/github/stars/alemayhu/notion-to-anki.svg)](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki flashcards easily!
 
 * [Power up Anki with Emacs, Org mode, anki-editor and more](https://yiufung.net/post/anki-org/) - A detailed blog introducing how to quickly add/edit Anki cards with the powerful Emacs editor.
+
+* [Shorouk's Blog](https://blog.shorouk.dev/category/anki/) - Some anki tutorials from Shorouk.
