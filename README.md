@@ -156,3 +156,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Notion to Anki ![GitHub stars](https://img.shields.io/github/stars/alemayhu/notion-to-anki.svg)](https://notion2anki.alemayhu.com/) - A website that let's you go from Notion toggle list to Anki flashcards easily!
 
 * [Power up Anki with Emacs, Org mode, anki-editor and more](https://yiufung.net/post/anki-org/) - A detailed blog introducing how to quickly add/edit Anki cards with the powerful Emacs editor.
+
+* [Limbiks](https://limbiks.com) - A website that automatically generates flashcards from powerpoints, pdfs, notes, documents, images and more! Flashcards can be imported into Anki with 1-click using AnkiConnect.
