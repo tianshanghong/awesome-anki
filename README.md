@@ -46,6 +46,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [English Irregular verbs](https://ankiweb.net/shared/info/110667962) - A deck containing more than 170 english irregular verbs, the resource comes with audio, images and phrases as example.
 
+* [Effective learning: Twenty rules of formulating knowledge](https://ankiweb.net/shared/info/1039979733) - The speed of learning will depend on the way you formulate the material. The same material can be learned many times faster if well formulated! The rules are listed in the order of importance.
+
 * [Mark Nagelberg](http://www.marknagelberg.com/anki/anki_webpage_loaded.html) - Data Science decks with personal notes from books, online courses and blog posts.
 
 ## Add-ons
@@ -158,3 +160,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Power up Anki with Emacs, Org mode, anki-editor and more](https://yiufung.net/post/anki-org/) - A detailed blog introducing how to quickly add/edit Anki cards with the powerful Emacs editor.
 
 * [Shorouk's Blog](https://blog.shorouk.dev/category/anki/) - Some anki tutorials from Shorouk.
+
+* [Limbiks](https://limbiks.com) - A website that automatically generates flashcards from powerpoints, pdfs, notes, documents, images and more!
