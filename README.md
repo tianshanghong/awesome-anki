@@ -8,27 +8,29 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 <!-- MarkdownTOC -->
 
-* [Clients](#clients)
-* [Decks](#decks)
-* [Add-ons](#add-ons)
-* [Tools](#tools)
-  * [Browser extensions](#browser-extensions)
-  * [Command-line tools](#command-line-tools)
-  * [iOS helper apps](#ios-helper-apps)
-  * [Telegram bots](#telegram-bots)
-  * [Programming libraries](#programming-libraries)
-* [Themes](#themes)
-* [Websites](#websites)
+- [Awesome Anki ](#awesome-anki-)
+  - [Table of Contents](#table-of-contents)
+  - [Clients](#clients)
+  - [Decks](#decks)
+  - [Add-ons](#add-ons)
+  - [Tools](#tools)
+    - [Browser extensions](#browser-extensions)
+    - [Command-line tools](#command-line-tools)
+    - [iOS helper apps](#ios-helper-apps)
+    - [Telegram bots](#telegram-bots)
+    - [Programming libraries](#programming-libraries)
+  - [Themes](#themes)
+  - [Websites](#websites)
 
 <!-- /MarkdownTOC -->
 
 ## Clients
 
-* [ankitects/anki ![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki) - Anki for desktop computers
-
-* [ankidroid/Anki-Android ![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
-
-* [AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Anki for iOS devices (_Not Open Source_)
+|Name|Link|Description|
+|---|---|---|
+|anki|[![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki)|Anki for desktop computers|
+|ankidroid|[![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android)|AnkiDroid: Anki on Android|
+|AnkiMobile|[AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8)|Anki for iOS devices (_Not Open Source_)|
 
 ## Decks
 
@@ -62,8 +64,6 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [glutanimate/advanced-previewer ![GitHub stars](https://img.shields.io/github/stars/glutanimate/advanced-previewer.svg)](https://github.com/glutanimate/advanced-previewer) - Extends Anki's card previewer with such features: preview multiple cards at once; review cards from the previewer; show question or answer side by default.
 
-* [glutanimate/sequence-inserter ![GitHub stars](https://img.shields.io/github/stars/glutanimate/sequence-inserter.svg)](https://github.com/glutanimate/sequence-inserter) - Allows you to define lists and sequences which can later be referenced in your cards through a special tag syntax.
-
 * [glutanimate/unified-remote-anki ![GitHub stars](https://img.shields.io/github/stars/glutanimate/unified-remote-anki.svg)](https://github.com/glutanimate/unified-remote-anki) - A simple [custom remote](https://www.unifiedremote.com/) for [Anki](http://ankisrs.net/). Review cards while on a treadmill or across the room.
 
 * [glutanimate/image-occlusion-enhanced ![GitHub stars](https://img.shields.io/github/stars/glutanimate/image-occlusion-enhanced.svg)](https://github.com/glutanimate/image-occlusion-enhanced) - Image Occlusion Enhanced is an add-on for the spaced repetition flashcard app Anki. It allows you to create flashcards that hide parts of an image to test your knowledge of that hidden information.
@@ -91,6 +91,14 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [FooSoft/anki-connect ![GitHub stars](https://img.shields.io/github/stars/FooSoft/anki-connect.svg)](https://github.com/FooSoft/anki-connect) - Add-on to expose a remote API for creating flash cards.
 
 * [Stvad/CrowdAnki ![GitHub stars](https://img.shields.io/github/stars/Stvad/CrowdAnki.svg)](https://github.com/Stvad/CrowdAnki) - Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.
+
+* [roxgib/anki-contanki ![GitHub stars](https://img.shields.io/github/stars/roxgib/anki-contanki.svg)](https://github.com/roxgib/anki-contanki) - Add-on enabling controller to review cards.
+
+* [glutanimate/colorful-tags ![GitHub stars](https://img.shields.io/github/stars/glutanimate/colorful-tags.svg)](https://github.com/glutanimate/colorful-tags) - Set custom color for sidebar tags.
+
+* [jefdongus/insert-symbols-anki-addon ![GitHub stars](https://img.shields.io/github/stars/jefdongus/insert-symbols-anki-addon.svg)](https://github.com/jefdongus/insert-symbols-anki-addon) - Insert symbols as you type.
+
+* [glutanimate/highlight-search-results ![GitHub stars](https://img.shields.io/github/stars/glutanimate/highlight-search-results.svg)](https://github.com/glutanimate/highlight-search-results) - Highlight search results in browser.
 
 ## Tools
 
