@@ -147,6 +147,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [asdfgeoff/anki-templates/mental-models ![GitHub stars](https://img.shields.io/github/stars/asdfgeoff/anki-templates.svg)](https://github.com/asdfgeoff/anki-templates/blob/master/mental-models) – A theme for learning mental models & concepts.
 
+* [pranavdeshai/anki-prettify ![GitHub stars](https://img.shields.io/github/stars/pranavdeshai/anki-prettify.svg)](https://github.com/pranavdeshai/anki-prettify) - Collection of customizable Anki flashcard templates with modern and clean themes.
+
 ## Websites
 
 * [LaoHuang.net](http://www.laohuang.net/) - A personal blog introducing author's self-developed anki tools. (_Simplified Chinese_)
