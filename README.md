@@ -140,6 +140,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [kerrickstaley/genanki ![GitHub stars](https://img.shields.io/github/stars/kerrickstaley/genanki.svg)](https://github.com/kerrickstaley/genanki) - Python library for generating Anki decks.
 
+* [klieret/AnkiPandas ![GitHub stars](https://img.shields.io/github/stars/klieret/AnkiPandas.svg)](https://github.com/klieret/AnkiPandas) - Python library for analysing and manipulating Anki decks using pandas dataframes.
+
 * [Archenoth/clj-anki ![GitHub stars](https://img.shields.io/github/stars/Archenoth/clj-anki.svg)](https://github.com/Archenoth/clj-anki) - Clojure Anki-file interaction library to read and write `*.anki2` and `*.apkg` files.
 
 * [flimzy/anki ![GitHub stars](https://img.shields.io/github/stars/flimzy/anki.svg)](https://github.com/flimzy/anki) - Go library to read Anki `*.apkg` files.
