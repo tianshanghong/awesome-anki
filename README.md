@@ -102,6 +102,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [glutanimate/highlight-search-results ![GitHub stars](https://img.shields.io/github/stars/glutanimate/highlight-search-results.svg)](https://github.com/glutanimate/highlight-search-results) - Highlight search results in browser.
 
+* [CravingCrates/AnkiCollab-Plugin ![GitHub stars](https://img.shields.io/github/stars/CravingCrates/AnkiCollab-Plugin.svg)](https://github.com/CravingCrates/AnkiCollab-Plugin) - The AnkiCollab-Plugin enables users to create and share Anki flashcard decks collaboratively, streamlining the card creation process and allowing for professional revisions to improve deck quality.
+
 ## Tools
 
 ### Browser extensions
