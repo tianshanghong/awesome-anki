@@ -68,6 +68,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [glutanimate/image-occlusion-enhanced ![GitHub stars](https://img.shields.io/github/stars/glutanimate/image-occlusion-enhanced.svg)](https://github.com/glutanimate/image-occlusion-enhanced) - Image Occlusion Enhanced is an add-on for the spaced repetition flashcard app Anki. It allows you to create flashcards that hide parts of an image to test your knowledge of that hidden information.
 
+* [gregorias/anki-image-scaler ![GitHub stars](https://img.shields.io/github/stars/gregorias/anki-image-scaler.svg)](https://github.com/gregorias/anki-image-scaler) allows you to scale images directly in the WYSIWYG editor.
+
 * [glutanimate/html-cleaner ![GitHub stars](https://img.shields.io/github/stars/glutanimate/html-cleaner.svg)](https://github.com/glutanimate/html-cleaner) - Cleans and minifies HTML content of the current field, removing extraneous tags and attributes copied over from apps like Word, Chrome, etc.
 
 * [glutanimate/sequence-inserter ![GitHub stars](https://img.shields.io/github/stars/glutanimate/sequence-inserter.svg)](https://github.com/glutanimate/sequence-inserter) - Allows you to define lists and sequences which can later be referenced in your cards through a special tag syntax.
