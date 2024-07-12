@@ -130,6 +130,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
 
+* [johnsutor/leetcode-study-tool ![GitHub stars](https://img.shields.io/github/stars/johnsutor/leetcode-study-tool.svg)](https://github.com/johnsutor/leetcode-study-tool) - Tool to generate Anki cards for LeetCode questions. Supports using custom questions or using popular presets (such as the Blind 75, Neetcode, etc...).
+
 * [psamim/kindle2anki ![GitHub stars](https://img.shields.io/github/stars/psamim/kindle2anki)](https://github.com/psamim/kindle2anki) - A Python Script to add vocabularies from Kindle to Anki.
 
 * [ohare93/brain-brew ![GitHub stars](https://img.shields.io/github/stars/ohare93/brain-brew)](https://github.com/ohare93/brain-brew) - An open-source flashcard manipulation tool that enables users to convert their Anki flashcards to and from CrowdAnki Exports and CSV formats, with plans to add more formats in the future.
