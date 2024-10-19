@@ -36,6 +36,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [AnkiWeb](https://ankiweb.net/shared/decks/) - Anki's official deck share platform.
 
+* [AnkiDecks AI](https://anki-decks.com/anki-decks/shared/) - Shared Decks of the AnkiDecks AI community
+
 * [b3nj5m1n/anki-major-system ![GitHub stars](https://img.shields.io/github/stars/b3nj5m1n/anki-major-system.svg)](https://github.com/b3nj5m1n/anki-major-system) - A deck for learning the major system
 
 * [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -188,3 +190,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Shorouk's Blog](https://blog.shorouk.dev/category/anki/) - Some anki tutorials from Shorouk.
 
 * [Limbiks](https://limbiks.com) - A website that automatically generates flashcards from powerpoints, pdfs, notes, documents, images and more!
+
+* [AnkiDecks AI](https://anki-decks.com) - AnkiDecks AI generates flashcards and image occlusions from any file using AI!
