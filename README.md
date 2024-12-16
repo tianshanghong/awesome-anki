@@ -192,3 +192,6 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [Limbiks](https://limbiks.com) - A website that automatically generates flashcards from powerpoints, pdfs, notes, documents, images and more!
 
 * [AnkiDecks AI](https://anki-decks.com) - AnkiDecks AI generates flashcards and image occlusions from any file using AI!
+
+* [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
+
