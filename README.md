@@ -16,6 +16,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
   - [Tools](#tools)
     - [Browser extensions](#browser-extensions)
     - [Command-line tools](#command-line-tools)
+    - [Desktop apps](#desktop-apps)
     - [iOS helper apps](#ios-helper-apps)
     - [Telegram bots](#telegram-bots)
     - [Programming libraries](#programming-libraries)
@@ -144,6 +145,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [lervag/apy ![GitHub stars](https://img.shields.io/github/stars/lervag/apy)](https://github.com/lervag/apy) - Python script to easily add cards to Anki. (Anki does not need to run at the same time)
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
+
+### Desktop apps
+
+* [JuliusBrussee/revu-swift ![GitHub stars](https://img.shields.io/github/stars/JuliusBrussee/revu-swift.svg)](https://github.com/JuliusBrussee/revu-swift) - A local-first spaced repetition app for macOS with FSRS scheduling and a Notion-inspired UI. Features a rich Anki import pipeline supporting `.apkg` and `.colpkg` files as well as Anki profiles. Available at [revu.cards](https://revu.cards).
 
 ### iOS helper apps
 
