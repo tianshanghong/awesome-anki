@@ -38,6 +38,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [AnkiDecks AI](https://anki-decks.com/anki-decks/shared/) - Shared Decks of the AnkiDecks AI community
 
+* [Eidetic](https://eidetic.cards) - Anki-compatible language flashcard decks for Arabic dialects, Spanish, German, and French, with native speaker audio and free sample decks on AnkiWeb.
+
 * [b3nj5m1n/anki-major-system ![GitHub stars](https://img.shields.io/github/stars/b3nj5m1n/anki-major-system.svg)](https://github.com/b3nj5m1n/anki-major-system) - A deck for learning the major system
 
 * [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
