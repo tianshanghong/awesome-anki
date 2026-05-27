@@ -201,3 +201,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [TubeVocab](https://www.tubevocab.com) - Generates spaced-repetition flashcards from words you click in YouTube subtitles, with translation, pronunciation, and the original sentence as context. UI in 10 languages.
+
