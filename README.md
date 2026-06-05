@@ -54,6 +54,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Mark Nagelberg](http://www.marknagelberg.com/anki/anki_webpage_loaded.html) - Data Science decks with personal notes from books, online courses and blog posts.
 
+* [llmsresearch/llm-flashcards ![GitHub stars](https://img.shields.io/github/stars/llmsresearch/llm-flashcards.svg)](https://github.com/llmsresearch/llm-flashcards) - Hand-drawn flashcards on Large Language Models covering transformer internals, attention, RAG, agents, fine-tuning, and inference. Free sample cards in the repo. Useful for visual revision before LLM and ML engineering interviews.
+
 ## Add-ons
 
 * [AwesomeTTS/awesometts-anki-addon ![GitHub stars](https://img.shields.io/github/stars/AwesomeTTS/awesometts-anki-addon.svg)](https://github.com/AwesomeTTS/awesometts-anki-addon) - AwesomeTTS makes it easy for language-learners and other students to add speech to their personal Anki card decks.
