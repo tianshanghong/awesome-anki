@@ -201,3 +201,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+## Misc
+
+* [ankimcp/anki-mcp-server ![GitHub stars](https://img.shields.io/github/stars/ankimcp/anki-mcp-server)](https://github.com/ankimcp/anki-mcp-server) - A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki via AnkiConnect.
+
