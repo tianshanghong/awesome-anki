@@ -38,7 +38,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [AnkiDecks AI](https://anki-decks.com/anki-decks/shared/) - Shared Decks of the AnkiDecks AI community
 
-* [Japanese Anki Pack](https://duct-tape2.github.io/japanese-anki-pack/) - JLPT N5/N4 Japanese vocabulary pack with Anki deck, CSV, PDF, and sample lessons.
+* [Easy Japanese Anki sample deck](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/) - JLPT N5/N4 Japanese vocabulary sample cards with anime/J-pop context, a free `.apkg` download, and optional extended lessons.
 
 * [b3nj5m1n/anki-major-system ![GitHub stars](https://img.shields.io/github/stars/b3nj5m1n/anki-major-system.svg)](https://github.com/b3nj5m1n/anki-major-system) - A deck for learning the major system
 
