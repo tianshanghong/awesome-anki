@@ -201,3 +201,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [StudyStack Notes to Flashcards ![GitHub stars](https://img.shields.io/github/stars/smeltworks-labs/notes-to-flashcards.svg)](https://smeltworks.com/studystack/) - Paste lecture notes and get Anki-ready flashcards in seconds. Auto-detects `Term - definition`, `Term: definition`, `Q:`/`A:` and markdown-heading notes, and exports tab-separated files that import into Anki without the "wrong number of fields" error. Runs entirely in the browser with no upload and no signup ([source](https://github.com/smeltworks-labs/notes-to-flashcards)).
+
