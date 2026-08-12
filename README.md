@@ -201,3 +201,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [NextLang](https://www.nextlang.co) - Generates language flashcards from your text and exports a native `.apkg` with the audio embedded, so the deck speaks in Anki without a TTS add-on. Language pair and CEFR level (A1-C1) are explicit inputs, and cards are editable before export. Free tier, no subscription.
