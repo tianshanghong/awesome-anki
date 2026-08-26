@@ -145,6 +145,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
 
+* [CAlM123451/kaoyan-english-context-cards ![GitHub stars](https://img.shields.io/github/stars/CAlM123451/kaoyan-english-context-cards)](https://github.com/CAlM123451/kaoyan-english-context-cards) - Turn exam reading passages into context-based vocabulary cards with spaced repetition and Anki export. Supports English learning with AI-powered translation and example sentences.
+
+* [CAlM123451/med-flashcard-factory ![GitHub stars](https://img.shields.io/github/stars/CAlM123451/med-flashcard-factory)](https://github.com/CAlM123451/med-flashcard-factory) - Batch-generate medical flashcards with dual-model quality check, export to Anki/HTML. AI-powered tool for medical students.
+
 ### iOS helper apps
 
 * [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. [App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh).
