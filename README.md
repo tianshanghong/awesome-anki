@@ -15,6 +15,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
   - [Add-ons](#add-ons)
   - [Tools](#tools)
     - [Browser extensions](#browser-extensions)
+    - [Desktop apps](#desktop-apps)
     - [Command-line tools](#command-line-tools)
     - [iOS helper apps](#ios-helper-apps)
     - [Telegram bots](#telegram-bots)
@@ -116,6 +117,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) - Create Anki cards with Chrome extension automatically.
 
 * [corollari/ankiTab ![GitHub stars](https://img.shields.io/github/stars/corollari/ankiTab.svg)](https://github.com/corollari/ankiTab) - Browser extension (Chrome, Firefox) that replaces the new tab page with Anki flashcards.
+
+### Desktop apps
+
+* [thecopybookhare-cmd/lingua-miner ![GitHub stars](https://img.shields.io/github/stars/thecopybookhare-cmd/lingua-miner.svg)](https://github.com/thecopybookhare-cmd/lingua-miner) - LinguaMiner: watch video with word-by-word clickable subtitles, click an unknown word and get an Anki card with the sentence audio, an animated clip of the moment, the translation and the word's frequency. Twelve languages, sends cards via AnkiConnect, and runs entirely offline (local Whisper, neural translation and TTS). Also reads epubs.
 
 ### Command-line tools
 
