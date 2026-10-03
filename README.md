@@ -201,3 +201,4 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [HSK 2.0 to 3.0 Level Checker](https://zhenzhu.app/tools/hsk-3-checker) - Free in-browser tool for Chinese learners: upload an Anki export (or paste words) to see which HSK level each word moved to in HSK 3.0, then download the notes with `HSK3::N` tags for re-import. Nothing is uploaded to a server.
