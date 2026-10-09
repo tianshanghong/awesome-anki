@@ -19,6 +19,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
     - [iOS helper apps](#ios-helper-apps)
     - [Telegram bots](#telegram-bots)
     - [Programming libraries](#programming-libraries)
+    - [Home Assistant](#home-assistant)
   - [Themes](#themes)
   - [Websites](#websites)
 
@@ -168,6 +169,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [yannickfunk/genanki-rs ![GitHub stars](https://img.shields.io/github/stars/yannickfunk/genanki-rs.svg)](https://github.com/yannickfunk/genanki-rs) - Rust library for generating Anki decks.
 
 * [eikowagenknecht/srs-converter ![GitHub stars](https://img.shields.io/github/stars/eikowagenknecht/srs-converter)](https://github.com/eikowagenknecht/srs-converter) - A TypeScript library for converting between different spaced repetition system (SRS) formats, including Anki (.apkg and .colpkg).
+
+### Home Assistant
+
+* [nikosavola/ha-anki ![GitHub stars](https://img.shields.io/github/stars/nikosavola/ha-anki.svg)](https://github.com/nikosavola/ha-anki) - Home Assistant custom integration that exposes Anki card counts as sensors, via the AnkiConnect add-on.
 
 ## Themes
 
