@@ -108,6 +108,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [CravingCrates/AnkiCollab-Plugin ![GitHub stars](https://img.shields.io/github/stars/CravingCrates/AnkiCollab-Plugin.svg)](https://github.com/CravingCrates/AnkiCollab-Plugin) - The AnkiCollab-Plugin enables users to create and share Anki flashcard decks collaboratively, streamlining the card creation process and allowing for professional revisions to improve deck quality.
 
+* [antonio-orionus/anki-macos-native ![GitHub stars](https://img.shields.io/github/stars/antonio-orionus/anki-macos-native.svg)](https://github.com/antonio-orionus/anki-macos-native) - Makes Anki's main window look like a native macOS app: toolbar merged into the title bar, Liquid Glass controls, inset grouped deck list and a floating answer bar. Follows light/dark mode and the system accent colour.
+
 ## Tools
 
 ### Browser extensions
