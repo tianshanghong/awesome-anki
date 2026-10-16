@@ -201,3 +201,5 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [MedAnkiGen](https://medankigen.com) - MedAnkiGen creates high-quality medical flashcards from PDF, presentations, and lecture transcripts, helping medical students optimize their study process.
 
+* [Ordkort ![GitHub stars](https://img.shields.io/github/stars/silicq/ordkort.svg)](https://ordkort.com) - A free, open-source flashcard site for 60 languages that imports `.apkg` decks (the current format too, with pictures, recordings and progress) and exports decks Anki opens, with their FSRS memory state.
+
