@@ -145,6 +145,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
 
+* [Odilient/bilimind-desktop ![GitHub stars](https://img.shields.io/github/stars/Odilient/bilimind-desktop)](https://github.com/Odilient/bilimind-desktop) - Desktop app and CLI that turn lecture slides and past papers into a course and a `deck.csv` ready for Anki's CSV import, with every quiz answer checked against the source files.
+
 ### iOS helper apps
 
 * [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. [App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh).
