@@ -145,6 +145,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
 
+* [scv3lqq/anki-review ![GitHub stars](https://img.shields.io/github/stars/scv3lqq/anki-review)](https://github.com/scv3lqq/anki-review) - Self-hosted web page for reviewing due cards with typed answers: Claude Code grades them against each card's answer key, you confirm or change every grade, and the grades go back through Anki's own scheduler via AnkiConnect.
+
 ### iOS helper apps
 
 * [Nonameentered/flashcard-adder ![GitHub stars](https://img.shields.io/github/stars/Nonameentered/flashcard-adder.svg)](https://github.com/Nonameentered/Flashcard-Adder) - An alternative iOS interface for adding flashcards into AnkiMobile providing features like an action extension. [App Store](https://apps.apple.com/us/app/flashcard-adder/id1538603552) and a short playlist of tutorials is up on [YouTube](https://www.youtube.com/playlist?list=PLj0diRPDkwkjfhDIGL_F_A2s7mMfsVGKh).
