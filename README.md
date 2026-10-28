@@ -16,6 +16,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
   - [Tools](#tools)
     - [Browser extensions](#browser-extensions)
     - [Command-line tools](#command-line-tools)
+    - [Desktop apps](#desktop-apps)
     - [iOS helper apps](#ios-helper-apps)
     - [Telegram bots](#telegram-bots)
     - [Programming libraries](#programming-libraries)
@@ -144,6 +145,10 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 * [lervag/apy ![GitHub stars](https://img.shields.io/github/stars/lervag/apy)](https://github.com/lervag/apy) - Python script to easily add cards to Anki. (Anki does not need to run at the same time)
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
+
+### Desktop apps
+
+* [0xzerolight/anki_miner ![GitHub stars](https://img.shields.io/github/stars/0xzerolight/anki_miner.svg)](https://github.com/0xzerolight/anki_miner) - Desktop app for automated Anki vocabulary card creation from video, audio, manga and books, in 32 languages.
 
 ### iOS helper apps
 
