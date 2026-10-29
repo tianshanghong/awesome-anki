@@ -30,6 +30,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 |---|---|---|
 |anki|[![GitHub stars](https://img.shields.io/github/stars/ankitects/anki.svg)](https://github.com/ankitects/anki)|Anki for desktop computers|
 |ankidroid|[![GitHub stars](https://img.shields.io/github/stars/ankidroid/Anki-Android.svg)](https://github.com/ankidroid/Anki-Android)|AnkiDroid: Anki on Android|
+|Wear for AnkiDroid|[![GitHub stars](https://img.shields.io/github/stars/nikosavola/AnkiDroid-WearOS.svg)](https://github.com/nikosavola/AnkiDroid-WearOS)|Review and grade AnkiDroid cards from a Wear OS watch, offline|
 |AnkiMobile|[AnkiMobile Flashcards](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8)|Anki for iOS devices (_Not Open Source_)|
 
 ## Decks
