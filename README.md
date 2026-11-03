@@ -129,6 +129,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [ankicommunity/anki-sync-server ![GitHub stars](https://img.shields.io/github/stars/ankicommunity/anki-sync-server.svg)](https://github.com/ankicommunity/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
 
+* [Ankinize](https://ankinize.com) - A sync server for Anki with a REST API, so scripts and AI agents can read and write the same Collection the Anki apps sync. Hosted (free 200 MB) or self-hosted with Docker.
+
 * [breizoreol/memanki-cli ![GitHub stars](https://img.shields.io/github/stars/breizoreol/memanki-cli.svg)](https://github.com/breizoreol/memanki-cli) - Converts a memrise lesson into one or several anki decks, given a memrise id taken from a lesson URL, ex: https://www.memrise.com/course/1123052/russian-1
 
 * [c-okelly/org_to_anki ![GitHub stars](https://img.shields.io/github/stars/c-okelly/org_to_anki.svg)](https://github.com/c-okelly/org_to_anki) - Tool to convert bullet point org files into Anki cards. Includes a tool to create new questions via the command line.
