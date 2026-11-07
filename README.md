@@ -40,6 +40,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [b3nj5m1n/anki-major-system ![GitHub stars](https://img.shields.io/github/stars/b3nj5m1n/anki-major-system.svg)](https://github.com/b3nj5m1n/anki-major-system) - A deck for learning the major system
 
+* [Major Dictionary Major System decks](https://majordictionary.com/major-system) - Two free Major System decks, 00-99 (100 cards) and 000-999 (1,000 cards), with the number on the front and the peg word on the back, downloaded as .apkg from a peg chart you can browse first.
+
 * [donnemartin/system-design-primer ![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 * [vojtechruz/spring-core-cert-notes-4.2 ![GitHub stars](https://img.shields.io/github/stars/vojtechruz/spring-core-cert-notes-4.2.svg)](https://github.com/vojtechruz/spring-core-cert-notes-4.2) - Decks with notes for Spring Core Certification 4.2.
