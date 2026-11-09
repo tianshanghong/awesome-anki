@@ -181,6 +181,8 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [ikkz/anki-template ![GitHub stars](https://img.shields.io/github/stars/ikkz/anki-template.svg)](https://github.com/ikkz/anki-template) - Collection of customizable Anki templates designed for enhanced learning, featuring GPT integration, larger question text, dark/light modes, countdown motivation, and support for multiple-choice, true/false, and basic Q&A formats.
 
+* [lxhsoluto-star/anki-card-styles ![GitHub stars](https://img.shields.io/github/stars/lxhsoluto-star/anki-card-styles.svg)](https://github.com/lxhsoluto-star/anki-card-styles) - Five CSS styles for Basic and Cloze note types, each with a night mode. Importable .apkg or paste-in CSS. MIT.
+
 ## Websites
 
 * [LaoHuang.net](http://www.laohuang.net/) - A personal blog introducing author's self-developed anki tools. (_Simplified Chinese_)
