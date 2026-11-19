@@ -145,7 +145,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 
 * [Rioverse/anki-ls ![GitHub stars](https://img.shields.io/github/stars/Rioverse/anki-ls)](https://github.com/Rioverse/anki-ls) - Inspect Anki export files (.apkg) using the anki-ls CLI application. Returns the flashcard data as JSON.
 
-* [ankinote-ai/ankinote ![GitHub stars](https://img.shields.io/github/stars/ankinote-ai/ankinote.svg)](https://github.com/ankinote-ai/ankinote) - Turns a word, sentence or STEM problem into a finished Anki card (AI text, picture, audio) with a web UI and a CLI an agent can drive. Embeds Anki's engine and syncs to AnkiWeb directly, no Anki desktop needed. MIT, bring your own key.
+* [ankinote-ai/ankinote ![GitHub stars](https://img.shields.io/github/stars/ankinote-ai/ankinote.svg)](https://github.com/ankinote-ai/ankinote) - Turns a word, sentence or STEM problem into a finished Anki card (AI text, picture, audio) with a web UI and a CLI an agent can drive. Adds cards to Anki Desktop through AnkiConnect, or runs headless and syncs to AnkiWeb. MIT, bring your own key.
 
 ### iOS helper apps
 
